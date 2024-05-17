@@ -1,0 +1,4 @@
+pandasai
+pandas
+pyyaml
+openpyxl

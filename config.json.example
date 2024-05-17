@@ -1,0 +1,6 @@
+{
+    "llm_api_key": "",
+    "llm_api_base": "",
+    "openai_api_key": "",
+    "max_tokens": 2500
+  }
