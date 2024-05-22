@@ -1,0 +1,1001 @@
+SCHOOL YEAR,COUNTY NUMBER,COUNTY NAME,DISTRICT NUMBER,DISTRICT NAME,SCHOOL NUMBER,SCHOOL NAME,SCHOOL CODE,STATE SCHOOL ID,NCES ID,CO-OP,CO-OP CODE,SCHOOL TYPE,DEMOGRAPHIC,LEVEL,SUPPRESSED,CLIMATE INDEX,SAFETY INDEX
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",All Students,MS,N,66.1,58.3
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",All Students,HS,N,64.7,57.9
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",All Students,ES,N,77.6,71.4
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Female,ES,N,78.8,71.6
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Female,HS,N,63.2,54.8
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Female,MS,N,65.0,55.5
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Male,ES,N,76.6,71.3
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Male,HS,N,66.0,60.6
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Male,MS,N,67.0,60.7
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",African American,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",African American,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",African American,MS,N,51.0,53.3
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",American Indian or Alaska Native,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",American Indian or Alaska Native,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",American Indian or Alaska Native,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Asian,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Asian,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Asian,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Hispanic or Latino,HS,N,56.9,48.4
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Hispanic or Latino,MS,N,63.1,53.9
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Hispanic or Latino,ES,N,76.2,69.3
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Native Hawaiian or Pacific Islander,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Two or More Races,ES,N,77.7,72.0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Two or More Races,MS,N,66.4,57.3
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Two or More Races,HS,N,58.0,53.2
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",White (non-Hispanic),HS,N,65.5,58.7
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",White (non-Hispanic),MS,N,66.5,58.6
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",White (non-Hispanic),ES,N,77.6,71.5
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Economically Disadvantaged,MS,N,65.6,58.0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Economically Disadvantaged,HS,N,63.7,57.0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Economically Disadvantaged,ES,N,77.5,71.3
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Economically Disadvantaged,ES,N,77.9,71.8
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Economically Disadvantaged,HS,N,66.4,59.5
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Economically Disadvantaged,MS,N,67.3,59.0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Students with Disabilities (IEP),MS,N,71.1,65.3
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Students with Disabilities (IEP),HS,N,69.0,60.5
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Students with Disabilities (IEP),ES,N,78.8,74.0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Alternate Assessment,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Alternate Assessment,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Alternate Assessment,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Students without IEP,HS,N,64.3,57.6
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Students without IEP,MS,N,65.6,57.6
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Students without IEP,ES,N,77.4,71.0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",English Learner including Monitored,ES,N,73.6,65.6
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",English Learner including Monitored,MS,N,64.7,52.6
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",English Learner including Monitored,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",English Learner,MS,N,65.0,52.6
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",English Learner,ES,N,74.1,65.7
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",English Learner,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-English Learner,MS,N,66.1,58.4
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-English Learner,HS,N,64.7,57.9
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-English Learner,ES,N,77.8,71.7
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-English Learner or monitored,ES,N,77.8,71.7
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-English Learner or monitored,HS,N,64.7,57.9
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-English Learner or monitored,MS,N,66.1,58.4
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Foster Care,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Foster Care,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Foster Care,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Foster Care,MS,N,66.1,58.2
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Foster Care,ES,N,77.6,71.4
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Foster Care,HS,N,64.4,57.6
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Homeless,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Homeless,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Homeless,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Homeless,ES,N,77.6,71.4
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Homeless,MS,N,66.0,58.3
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Homeless,HS,N,64.7,57.9
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Migrant,ES,N,76.0,66.2
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Migrant,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Migrant,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Migrant,HS,N,64.7,58.0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Migrant,ES,N,77.7,71.6
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Migrant,MS,N,66.1,58.3
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Military Dependent,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Military Dependent,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Military Dependent,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Military Dependent,HS,N,64.7,57.9
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Military Dependent,ES,N,77.6,71.4
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Non-Military Dependent,MS,N,66.1,58.3
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,All Students,HS,N,64.7,57.9
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Female,HS,N,63.2,54.8
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Male,HS,N,66.0,60.6
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,African American,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,American Indian or Alaska Native,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Asian,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Hispanic or Latino,HS,N,56.9,48.4
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Native Hawaiian or Pacific Islander,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Two or More Races,HS,N,58.0,53.2
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,White (non-Hispanic),HS,N,65.5,58.7
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Economically Disadvantaged,HS,N,63.7,57.0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Non-Economically Disadvantaged,HS,N,66.4,59.5
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Students with Disabilities (IEP),HS,N,69.0,60.5
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Alternate Assessment,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Students without IEP,HS,N,64.3,57.6
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,English Learner including Monitored,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,English Learner,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Non-English Learner,HS,N,64.7,57.9
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Non-English Learner or monitored,HS,N,64.7,57.9
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Foster Care,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Non-Foster Care,HS,N,64.4,57.6
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Homeless,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Non-Homeless,HS,N,64.7,57.9
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Migrant,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Non-Migrant,HS,N,64.7,58.0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Military Dependent,HS,Y,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Non-Military Dependent,HS,N,64.7,57.9
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,All Students,MS,N,66.1,58.3
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Female,MS,N,65.0,55.5
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Male,MS,N,67.0,60.7
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,African American,MS,N,51.0,53.3
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,American Indian or Alaska Native,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Asian,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Hispanic or Latino,MS,N,63.1,53.9
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Two or More Races,MS,N,66.4,57.3
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,White (non-Hispanic),MS,N,66.5,58.6
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Economically Disadvantaged,MS,N,65.6,58.0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Non-Economically Disadvantaged,MS,N,67.3,59.0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Students with Disabilities (IEP),MS,N,71.1,65.3
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Alternate Assessment,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Students without IEP,MS,N,65.6,57.6
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,English Learner including Monitored,MS,N,64.7,52.6
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,English Learner,MS,N,65.0,52.6
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Non-English Learner,MS,N,66.1,58.4
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Non-English Learner or monitored,MS,N,66.1,58.4
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Foster Care,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Non-Foster Care,MS,N,66.1,58.2
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Homeless,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Non-Homeless,MS,N,66.0,58.3
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Migrant,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Non-Migrant,MS,N,66.1,58.3
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Military Dependent,MS,Y,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Non-Military Dependent,MS,N,66.1,58.3
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,All Students,ES,N,77.6,71.4
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Female,ES,N,78.8,71.6
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Male,ES,N,76.6,71.3
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,African American,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Asian,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Hispanic or Latino,ES,N,76.2,69.3
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Two or More Races,ES,N,77.7,72.0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,White (non-Hispanic),ES,N,77.6,71.5
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Economically Disadvantaged,ES,N,77.5,71.3
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Non-Economically Disadvantaged,ES,N,77.9,71.8
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Students with Disabilities (IEP),ES,N,78.8,74.0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Alternate Assessment,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Students without IEP,ES,N,77.4,71.0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,English Learner including Monitored,ES,N,73.6,65.6
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,English Learner,ES,N,74.1,65.7
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Non-English Learner,ES,N,77.8,71.7
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Non-English Learner or monitored,ES,N,77.8,71.7
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Foster Care,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Non-Foster Care,ES,N,77.6,71.4
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Homeless,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Non-Homeless,ES,N,77.6,71.4
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Migrant,ES,N,76.0,66.2
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Non-Migrant,ES,N,77.7,71.6
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Military Dependent,ES,Y,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Non-Military Dependent,ES,N,77.6,71.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",All Students,MS,N,71.1,63.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",All Students,ES,N,78.2,72.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",All Students,HS,N,62.6,56.3
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Female,MS,N,71.0,62.6
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Female,HS,N,63.1,54.6
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Female,ES,N,79.5,73.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Male,MS,N,71.2,65.3
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Male,ES,N,77.0,72.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Male,HS,N,62.0,58.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",African American,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",African American,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",African American,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",American Indian or Alaska Native,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",American Indian or Alaska Native,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",American Indian or Alaska Native,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Asian,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Asian,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Asian,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Hispanic or Latino,HS,N,56.6,52.1
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Hispanic or Latino,MS,N,68.9,62.2
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Hispanic or Latino,ES,N,78.6,73.1
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Native Hawaiian or Pacific Islander,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Two or More Races,ES,N,77.1,74.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Two or More Races,MS,N,73.0,61.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Two or More Races,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",White (non-Hispanic),ES,N,78.3,72.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",White (non-Hispanic),HS,N,63.1,56.7
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",White (non-Hispanic),MS,N,71.2,64.2
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Economically Disadvantaged,ES,N,78.3,73.2
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Economically Disadvantaged,HS,N,61.2,54.6
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Economically Disadvantaged,MS,N,70.5,63.5
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Economically Disadvantaged,HS,N,64.4,58.5
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Economically Disadvantaged,ES,N,78.1,72.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Economically Disadvantaged,MS,N,72.1,64.5
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Students with Disabilities (IEP),MS,N,72.5,65.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Students with Disabilities (IEP),ES,N,82.3,77.5
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Students with Disabilities (IEP),HS,N,65.6,60.7
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Alternate Assessment,MS,N,86.2,80.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Alternate Assessment,ES,N,89.9,90.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Alternate Assessment,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Students without IEP,HS,N,62.3,55.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Students without IEP,MS,N,70.8,63.6
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Students without IEP,ES,N,77.1,71.6
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",English Learner including Monitored,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",English Learner including Monitored,ES,N,75.4,68.3
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",English Learner including Monitored,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",English Learner,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",English Learner,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",English Learner,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-English Learner,HS,N,62.7,56.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-English Learner,MS,N,71.2,64.0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-English Learner,ES,N,78.2,72.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-English Learner or monitored,MS,N,71.3,64.0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-English Learner or monitored,HS,N,62.7,56.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-English Learner or monitored,ES,N,78.2,73.0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Foster Care,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Foster Care,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Foster Care,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Foster Care,ES,N,78.1,72.8
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Foster Care,MS,N,71.1,64.0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Foster Care,HS,N,62.6,56.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Homeless,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Homeless,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Homeless,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Homeless,HS,N,62.6,56.3
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Homeless,ES,N,78.2,72.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Homeless,MS,N,71.1,63.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Migrant,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Migrant,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Migrant,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Migrant,ES,N,78.2,72.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Migrant,MS,N,71.1,64.0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Migrant,HS,N,62.7,56.4
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Military Dependent,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Military Dependent,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Military Dependent,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Military Dependent,ES,N,78.2,72.9
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Military Dependent,HS,N,62.6,56.3
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Non-Military Dependent,MS,N,71.1,63.9
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,All Students,ES,N,79.9,74.6
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Female,ES,N,80.3,75.1
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Male,ES,N,79.6,74.3
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,African American,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Asian,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Hispanic or Latino,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Two or More Races,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,White (non-Hispanic),ES,N,80.1,74.7
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Economically Disadvantaged,ES,N,80.1,75.1
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Non-Economically Disadvantaged,ES,N,79.6,73.6
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Students with Disabilities (IEP),ES,N,80.5,76.3
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Alternate Assessment,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Students without IEP,ES,N,79.7,74.1
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,English Learner including Monitored,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,English Learner,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Non-English Learner,ES,N,79.9,74.7
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Non-English Learner or monitored,ES,N,79.9,74.7
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Foster Care,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Non-Foster Care,ES,N,79.9,74.7
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Homeless,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Non-Homeless,ES,N,79.9,74.6
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Migrant,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Non-Migrant,ES,N,80.0,74.7
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Military Dependent,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Non-Military Dependent,ES,N,79.9,74.6
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,All Students,MS,N,70.2,62.8
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Female,MS,N,69.7,60.9
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Male,MS,N,70.7,64.6
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,African American,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,American Indian or Alaska Native,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Asian,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Hispanic or Latino,MS,N,68.5,63.3
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Two or More Races,MS,N,72.8,62.1
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,White (non-Hispanic),MS,N,70.2,62.9
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Economically Disadvantaged,MS,N,69.6,62.5
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Non-Economically Disadvantaged,MS,N,71.3,63.2
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Students with Disabilities (IEP),MS,N,71.1,64.0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Alternate Assessment,MS,N,85.5,78.8
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Students without IEP,MS,N,70.0,62.5
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,English Learner including Monitored,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,English Learner,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Non-English Learner,MS,N,70.4,62.8
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Non-English Learner or monitored,MS,N,70.4,62.9
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Foster Care,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Non-Foster Care,MS,N,70.3,62.9
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Homeless,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Non-Homeless,MS,N,70.3,62.8
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Migrant,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Non-Migrant,MS,N,70.2,62.8
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Military Dependent,MS,Y,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Non-Military Dependent,MS,N,70.2,62.8
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,All Students,HS,N,62.4,56.1
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Female,HS,N,62.8,54.2
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Male,HS,N,62.0,58.3
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,African American,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,American Indian or Alaska Native,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Asian,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Hispanic or Latino,HS,N,56.2,51.5
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Native Hawaiian or Pacific Islander,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Two or More Races,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,White (non-Hispanic),HS,N,62.9,56.4
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Economically Disadvantaged,HS,N,61.1,54.4
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Non-Economically Disadvantaged,HS,N,64.1,58.1
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Students with Disabilities (IEP),HS,N,65.6,60.7
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Alternate Assessment,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Students without IEP,HS,N,62.1,55.6
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,English Learner including Monitored,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,English Learner,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Non-English Learner,HS,N,62.5,56.1
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Non-English Learner or monitored,HS,N,62.5,56.1
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Foster Care,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Non-Foster Care,HS,N,62.4,56.1
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Homeless,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Non-Homeless,HS,N,62.4,56.1
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Migrant,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Non-Migrant,HS,N,62.4,56.1
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Military Dependent,HS,Y,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Non-Military Dependent,HS,N,62.4,56.1
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,All Students,ES,N,75.8,70.0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Female,ES,N,77.1,70.2
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Male,ES,N,74.5,69.8
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,African American,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Asian,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Hispanic or Latino,ES,N,74.9,67.8
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Two or More Races,ES,N,77.5,71.6
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,White (non-Hispanic),ES,N,75.9,70.1
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Economically Disadvantaged,ES,N,75.8,70.1
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Non-Economically Disadvantaged,ES,N,75.8,69.8
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Students with Disabilities (IEP),ES,N,81.7,76.1
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Alternate Assessment,ES,N,93.2,92.5
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Students without IEP,ES,N,74.6,68.7
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,English Learner including Monitored,ES,N,71.1,63.7
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,English Learner,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Non-English Learner,ES,N,75.9,70.0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Non-English Learner or monitored,ES,N,75.9,70.1
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Foster Care,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Non-Foster Care,ES,N,75.7,69.9
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Homeless,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Non-Homeless,ES,N,75.8,70.0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Migrant,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Non-Migrant,ES,N,75.9,70.1
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Military Dependent,ES,Y,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Non-Military Dependent,ES,N,75.8,70.0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",All Students,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",All Students,ES,N,80.1,76.5
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Female,ES,N,77.9,74.7
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Female,MS,N,73.9,72.1
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Male,MS,N,73.3,71.8
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Male,ES,N,82.4,78.5
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",African American,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",African American,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",American Indian or Alaska Native,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",American Indian or Alaska Native,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Asian,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Asian,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Hispanic or Latino,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Hispanic or Latino,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Two or More Races,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Two or More Races,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",White (non-Hispanic),MS,N,74.1,72.4
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",White (non-Hispanic),ES,N,79.9,76.9
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Economically Disadvantaged,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Economically Disadvantaged,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-Economically Disadvantaged,ES,N,79.9,76.4
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-Economically Disadvantaged,MS,N,73.5,71.8
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Students with Disabilities (IEP),ES,N,77.0,73.9
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Students with Disabilities (IEP),MS,N,78.4,72.0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Alternate Assessment,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Alternate Assessment,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Students without IEP,MS,N,73.1,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Students without IEP,ES,N,80.4,76.8
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",English Learner including Monitored,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",English Learner including Monitored,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",English Learner,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",English Learner,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-English Learner,ES,N,80.0,76.7
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-English Learner,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-English Learner or monitored,ES,N,79.9,76.7
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-English Learner or monitored,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Foster Care,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Foster Care,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-Foster Care,ES,N,80.1,76.5
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-Foster Care,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Homeless,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Homeless,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-Homeless,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-Homeless,ES,N,80.1,76.5
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Migrant,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Migrant,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-Migrant,ES,N,80.1,76.5
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-Migrant,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Military Dependent,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Military Dependent,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-Military Dependent,ES,N,80.1,76.5
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Non-Military Dependent,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,All Students,ES,N,80.1,76.5
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,All Students,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Female,MS,N,73.9,72.1
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Female,ES,N,77.9,74.7
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Male,MS,N,73.3,71.8
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Male,ES,N,82.4,78.5
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,African American,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,African American,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,American Indian or Alaska Native,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Asian,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Asian,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Hispanic or Latino,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Hispanic or Latino,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Two or More Races,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Two or More Races,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,White (non-Hispanic),MS,N,74.1,72.4
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,White (non-Hispanic),ES,N,79.9,76.9
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Economically Disadvantaged,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Economically Disadvantaged,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-Economically Disadvantaged,MS,N,73.5,71.8
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-Economically Disadvantaged,ES,N,79.9,76.4
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Students with Disabilities (IEP),MS,N,78.4,72.0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Students with Disabilities (IEP),ES,N,77.0,73.9
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Alternate Assessment,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Alternate Assessment,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Students without IEP,MS,N,73.1,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Students without IEP,ES,N,80.4,76.8
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,English Learner including Monitored,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,English Learner including Monitored,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,English Learner,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,English Learner,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-English Learner,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-English Learner,ES,N,80.0,76.7
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-English Learner or monitored,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-English Learner or monitored,ES,N,79.9,76.7
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Foster Care,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Foster Care,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-Foster Care,ES,N,80.1,76.5
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-Foster Care,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Homeless,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Homeless,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-Homeless,ES,N,80.1,76.5
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-Homeless,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Migrant,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Migrant,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-Migrant,ES,N,80.1,76.5
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-Migrant,MS,N,73.6,71.9
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Military Dependent,ES,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Military Dependent,MS,Y,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-Military Dependent,ES,N,80.1,76.5
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Non-Military Dependent,MS,N,73.6,71.9
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",All Students,MS,N,66.8,59.2
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",All Students,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",All Students,ES,N,80.3,74.6
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Female,ES,N,80.9,74.8
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Female,HS,N,61.7,52.6
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Female,MS,N,66.5,56.4
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Male,HS,N,63.2,59.0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Male,MS,N,67.0,61.6
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Male,ES,N,79.8,74.4
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",African American,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",African American,MS,N,68.4,59.0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",African American,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",American Indian or Alaska Native,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",American Indian or Alaska Native,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",American Indian or Alaska Native,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Asian,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Asian,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Asian,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Hispanic or Latino,HS,N,62.4,60.3
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Hispanic or Latino,MS,N,65.8,57.5
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Hispanic or Latino,ES,N,79.3,73.8
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Native Hawaiian or Pacific Islander,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Two or More Races,HS,N,62.8,56.3
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Two or More Races,MS,N,65.3,56.2
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Two or More Races,ES,N,75.3,70.3
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",White (non-Hispanic),ES,N,80.6,74.9
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",White (non-Hispanic),MS,N,66.9,59.5
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",White (non-Hispanic),HS,N,62.6,56.0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Economically Disadvantaged,HS,N,61.7,55.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Economically Disadvantaged,MS,N,65.6,58.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Economically Disadvantaged,ES,N,79.4,74.2
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Economically Disadvantaged,ES,N,81.1,75.0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Economically Disadvantaged,MS,N,67.7,60.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Economically Disadvantaged,HS,N,63.0,56.7
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Students with Disabilities (IEP),HS,N,66.1,58.6
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Students with Disabilities (IEP),ES,N,81.5,77.3
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Students with Disabilities (IEP),MS,N,69.9,61.6
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Alternate Assessment,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Alternate Assessment,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Alternate Assessment,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Students without IEP,MS,N,66.4,58.9
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Students without IEP,ES,N,80.1,74.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Students without IEP,HS,N,62.2,55.9
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",English Learner including Monitored,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",English Learner including Monitored,ES,N,85.0,75.3
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",English Learner including Monitored,MS,N,69.9,63.4
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",English Learner,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",English Learner,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",English Learner,ES,N,84.4,75.0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-English Learner,MS,N,66.7,59.2
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-English Learner,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-English Learner,ES,N,80.2,74.6
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-English Learner or monitored,MS,N,66.7,59.2
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-English Learner or monitored,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-English Learner or monitored,ES,N,80.2,74.6
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Foster Care,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Foster Care,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Foster Care,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Foster Care,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Foster Care,ES,N,80.4,74.6
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Foster Care,MS,N,66.7,59.2
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Homeless,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Homeless,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Homeless,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Homeless,MS,N,66.8,59.2
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Homeless,ES,N,80.3,74.6
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Homeless,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Migrant,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Migrant,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Migrant,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Migrant,ES,N,80.3,74.6
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Migrant,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Migrant,MS,N,66.7,59.2
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Military Dependent,ES,N,79.0,67.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Military Dependent,HS,N,53.9,48.7
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Military Dependent,MS,N,80.9,70.8
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Military Dependent,MS,N,66.6,59.1
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Military Dependent,ES,N,80.4,74.7
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Non-Military Dependent,HS,N,62.6,56.3
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,All Students,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Female,HS,N,61.7,52.6
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Male,HS,N,63.2,59.0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,African American,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,American Indian or Alaska Native,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Asian,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Hispanic or Latino,HS,N,62.4,60.3
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Native Hawaiian or Pacific Islander,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Two or More Races,HS,N,62.8,56.3
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,White (non-Hispanic),HS,N,62.6,56.0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Economically Disadvantaged,HS,N,61.7,55.1
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Non-Economically Disadvantaged,HS,N,63.0,56.7
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Students with Disabilities (IEP),HS,N,66.1,58.6
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Alternate Assessment,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Students without IEP,HS,N,62.2,55.9
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,English Learner including Monitored,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,English Learner,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Non-English Learner,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Non-English Learner or monitored,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Foster Care,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Non-Foster Care,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Homeless,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Non-Homeless,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Migrant,HS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Non-Migrant,HS,N,62.5,56.1
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Military Dependent,HS,N,53.9,48.7
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Non-Military Dependent,HS,N,62.6,56.3
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,All Students,ES,N,84.0,77.6
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Female,ES,N,84.6,78.6
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Male,ES,N,83.2,76.5
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,African American,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Asian,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Hispanic or Latino,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Two or More Races,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,White (non-Hispanic),ES,N,83.9,77.5
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Economically Disadvantaged,ES,N,84.3,78.9
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Non-Economically Disadvantaged,ES,N,83.8,76.8
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Students with Disabilities (IEP),ES,N,85.0,80.6
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Alternate Assessment,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Students without IEP,ES,N,83.9,77.1
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,English Learner including Monitored,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,English Learner,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Non-English Learner,ES,N,83.9,77.7
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Non-English Learner or monitored,ES,N,83.9,77.7
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Foster Care,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Non-Foster Care,ES,N,84.0,77.6
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Homeless,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Non-Homeless,ES,N,84.0,77.6
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Migrant,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Non-Migrant,ES,N,84.0,77.6
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Military Dependent,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Non-Military Dependent,ES,N,84.1,77.7
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,All Students,MS,N,66.8,59.2
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Female,MS,N,66.5,56.4
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Male,MS,N,67.0,61.6
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,African American,MS,N,68.4,59.0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,American Indian or Alaska Native,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Asian,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Hispanic or Latino,MS,N,65.8,57.5
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Two or More Races,MS,N,65.3,56.2
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,White (non-Hispanic),MS,N,66.9,59.5
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Economically Disadvantaged,MS,N,65.6,58.1
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Non-Economically Disadvantaged,MS,N,67.7,60.1
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Students with Disabilities (IEP),MS,N,69.9,61.6
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Alternate Assessment,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Students without IEP,MS,N,66.4,58.9
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,English Learner including Monitored,MS,N,69.9,63.4
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,English Learner,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Non-English Learner,MS,N,66.7,59.2
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Non-English Learner or monitored,MS,N,66.7,59.2
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Foster Care,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Non-Foster Care,MS,N,66.7,59.2
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Homeless,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Non-Homeless,MS,N,66.8,59.2
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Migrant,MS,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Non-Migrant,MS,N,66.7,59.2
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Military Dependent,MS,N,80.9,70.8
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Non-Military Dependent,MS,N,66.6,59.1
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,All Students,ES,N,77.9,73.1
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Female,ES,N,78.5,73.6
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Male,ES,N,77.5,72.6
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,African American,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Asian,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Hispanic or Latino,ES,N,78.1,69.4
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Two or More Races,ES,N,70.4,68.7
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,White (non-Hispanic),ES,N,78.3,73.5
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Economically Disadvantaged,ES,N,76.6,71.8
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Non-Economically Disadvantaged,ES,N,79.4,74.5
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Students with Disabilities (IEP),ES,N,80.9,76.6
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Alternate Assessment,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Students without IEP,ES,N,77.5,72.6
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,English Learner including Monitored,ES,N,83.8,74.6
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,English Learner,ES,N,83.8,74.6
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Non-English Learner,ES,N,77.7,73.0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Non-English Learner or monitored,ES,N,77.7,73.0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Foster Care,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Non-Foster Care,ES,N,78.0,73.1
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Homeless,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Non-Homeless,ES,N,77.9,73.1
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Migrant,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Non-Migrant,ES,N,78.0,73.1
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Military Dependent,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Non-Military Dependent,ES,N,77.8,73.2
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,All Students,ES,N,78.7,72.8
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Female,ES,N,78.7,71.6
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Male,ES,N,78.6,74.0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,African American,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Asian,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Hispanic or Latino,ES,N,78.9,74.0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Two or More Races,ES,N,77.4,68.7
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,White (non-Hispanic),ES,N,78.9,73.2
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Economically Disadvantaged,ES,N,77.7,72.1
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Non-Economically Disadvantaged,ES,N,79.4,73.4
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Students with Disabilities (IEP),ES,N,79.2,75.3
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Alternate Assessment,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Students without IEP,ES,N,78.5,72.2
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,English Learner including Monitored,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,English Learner,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Non-English Learner,ES,N,78.6,72.8
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Non-English Learner or monitored,ES,N,78.5,72.7
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Foster Care,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Non-Foster Care,ES,N,78.7,72.8
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Homeless,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Non-Homeless,ES,N,78.7,72.8
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Migrant,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Non-Migrant,ES,N,78.6,72.8
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Military Dependent,ES,Y,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Non-Military Dependent,ES,N,78.8,73.0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",All Students,HS,N,64.3,58.1
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",All Students,ES,N,80.1,74.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",All Students,MS,N,66.0,57.7
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Female,ES,N,81.8,76.1
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Female,MS,N,65.9,54.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Female,HS,N,65.2,57.3
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Male,ES,N,78.4,73.7
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Male,MS,N,66.1,60.4
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Male,HS,N,63.6,58.8
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",African American,ES,N,71.9,66.5
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",African American,MS,N,68.0,59.2
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",African American,HS,N,57.5,53.6
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",American Indian or Alaska Native,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",American Indian or Alaska Native,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",American Indian or Alaska Native,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Asian,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Asian,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Asian,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Hispanic or Latino,HS,N,62.4,59.4
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Hispanic or Latino,ES,N,81.8,72.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Hispanic or Latino,MS,N,62.4,55.2
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Native Hawaiian or Pacific Islander,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Two or More Races,ES,N,80.0,76.6
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Two or More Races,HS,N,66.1,58.3
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Two or More Races,MS,N,62.5,53.7
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",White (non-Hispanic),MS,N,66.3,58.0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",White (non-Hispanic),ES,N,80.4,75.2
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",White (non-Hispanic),HS,N,64.6,58.2
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Economically Disadvantaged,HS,N,62.6,55.7
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Economically Disadvantaged,ES,N,79.7,73.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Economically Disadvantaged,MS,N,65.2,56.8
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Economically Disadvantaged,ES,N,81.2,76.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Economically Disadvantaged,MS,N,67.4,59.2
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Economically Disadvantaged,HS,N,66.3,61.0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Students with Disabilities (IEP),ES,N,79.6,74.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Students with Disabilities (IEP),HS,N,65.1,57.4
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Students with Disabilities (IEP),MS,N,66.6,58.1
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Alternate Assessment,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Alternate Assessment,ES,N,70.8,69.7
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Alternate Assessment,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Students without IEP,ES,N,80.3,74.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Students without IEP,MS,N,65.9,57.7
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Students without IEP,HS,N,64.1,58.3
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",English Learner including Monitored,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",English Learner including Monitored,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",English Learner including Monitored,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",English Learner,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",English Learner,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",English Learner,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-English Learner,HS,N,64.2,58.1
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-English Learner,ES,N,80.1,74.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-English Learner,MS,N,66.0,57.7
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-English Learner or monitored,HS,N,64.2,58.1
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-English Learner or monitored,ES,N,80.2,74.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-English Learner or monitored,MS,N,66.0,57.7
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Foster Care,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Foster Care,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Foster Care,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Foster Care,HS,N,64.4,58.3
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Foster Care,MS,N,66.1,57.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Foster Care,ES,N,80.1,74.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Homeless,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Homeless,ES,N,85.1,81.6
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Homeless,MS,N,61.1,53.1
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Homeless,MS,N,66.1,57.8
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Homeless,ES,N,80.0,74.7
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Homeless,HS,N,64.4,58.2
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Migrant,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Migrant,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Migrant,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Migrant,MS,N,66.0,57.7
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Migrant,ES,N,80.2,74.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Migrant,HS,N,64.3,58.1
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Military Dependent,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Military Dependent,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Military Dependent,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Military Dependent,ES,N,80.1,74.9
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Military Dependent,HS,N,64.3,58.1
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Non-Military Dependent,MS,N,66.0,57.7
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,All Students,HS,N,64.3,58.1
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Female,HS,N,65.2,57.3
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Male,HS,N,63.6,58.8
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,African American,HS,N,57.5,53.6
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,American Indian or Alaska Native,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Asian,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Hispanic or Latino,HS,N,62.4,59.4
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Native Hawaiian or Pacific Islander,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Two or More Races,HS,N,66.1,58.3
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,White (non-Hispanic),HS,N,64.6,58.2
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Economically Disadvantaged,HS,N,62.6,55.7
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Non-Economically Disadvantaged,HS,N,66.3,61.0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Students with Disabilities (IEP),HS,N,65.1,57.4
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Alternate Assessment,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Students without IEP,HS,N,64.1,58.3
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,English Learner including Monitored,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,English Learner,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Non-English Learner,HS,N,64.2,58.1
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Non-English Learner or monitored,HS,N,64.2,58.1
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Foster Care,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Non-Foster Care,HS,N,64.4,58.3
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Homeless,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Non-Homeless,HS,N,64.4,58.2
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Migrant,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Non-Migrant,HS,N,64.3,58.1
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Military Dependent,HS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Non-Military Dependent,HS,N,64.3,58.1
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,All Students,MS,N,66.0,57.7
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Female,MS,N,65.9,54.9
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Male,MS,N,66.1,60.4
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,African American,MS,N,68.0,59.2
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,American Indian or Alaska Native,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Asian,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Hispanic or Latino,MS,N,62.4,55.2
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Two or More Races,MS,N,62.5,53.7
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,White (non-Hispanic),MS,N,66.3,58.0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Economically Disadvantaged,MS,N,65.2,56.8
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Non-Economically Disadvantaged,MS,N,67.4,59.2
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Students with Disabilities (IEP),MS,N,66.6,58.1
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Alternate Assessment,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Students without IEP,MS,N,65.9,57.7
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,English Learner including Monitored,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,English Learner,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Non-English Learner,MS,N,66.0,57.7
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Non-English Learner or monitored,MS,N,66.0,57.7
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Foster Care,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Non-Foster Care,MS,N,66.1,57.9
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Homeless,MS,N,61.1,53.1
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Non-Homeless,MS,N,66.1,57.8
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Migrant,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Non-Migrant,MS,N,66.0,57.7
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Military Dependent,MS,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Non-Military Dependent,MS,N,66.0,57.7
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,All Students,ES,N,78.9,72.1
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Female,ES,N,79.9,71.7
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Male,ES,N,77.9,72.5
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,African American,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Asian,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Hispanic or Latino,ES,N,81.4,70.6
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Two or More Races,ES,N,81.0,78.8
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,White (non-Hispanic),ES,N,79.0,72.8
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Economically Disadvantaged,ES,N,78.9,72.2
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Non-Economically Disadvantaged,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Students with Disabilities (IEP),ES,N,79.3,74.2
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Alternate Assessment,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Students without IEP,ES,N,78.8,71.5
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,English Learner including Monitored,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,English Learner,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Non-English Learner,ES,N,78.9,72.2
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Non-English Learner or monitored,ES,N,79.1,72.3
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Foster Care,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Non-Foster Care,ES,N,78.7,72.0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Homeless,ES,N,80.2,76.2
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Non-Homeless,ES,N,78.8,71.8
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Migrant,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Non-Migrant,ES,N,78.9,72.1
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Military Dependent,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Non-Military Dependent,ES,N,78.9,72.1
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,All Students,ES,N,77.9,72.8
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Female,ES,N,80.4,75.0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Male,ES,N,74.8,70.1
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,African American,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Asian,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Hispanic or Latino,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Two or More Races,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,White (non-Hispanic),ES,N,78.0,73.0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Economically Disadvantaged,ES,N,77.2,71.3
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Non-Economically Disadvantaged,ES,N,78.5,74.2
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Students with Disabilities (IEP),ES,N,75.6,71.8
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Alternate Assessment,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Students without IEP,ES,N,78.2,72.9
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,English Learner including Monitored,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,English Learner,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Non-English Learner,ES,N,77.9,72.8
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Non-English Learner or monitored,ES,N,77.9,72.8
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Foster Care,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Non-Foster Care,ES,N,77.9,72.8
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Homeless,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Non-Homeless,ES,N,77.7,72.6
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Migrant,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Non-Migrant,ES,N,77.9,72.8
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Military Dependent,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Non-Military Dependent,ES,N,77.9,72.8
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,All Students,ES,N,82.5,77.4
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Female,ES,N,83.9,78.1
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Male,ES,N,81.0,76.7
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,African American,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Asian,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Hispanic or Latino,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Two or More Races,ES,N,82.7,76.2
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,White (non-Hispanic),ES,N,82.6,77.3
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Economically Disadvantaged,ES,N,82.1,77.2
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Non-Economically Disadvantaged,ES,N,83.3,78.0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Students with Disabilities (IEP),ES,N,82.0,77.0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Alternate Assessment,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Students without IEP,ES,N,82.6,77.5
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,English Learner including Monitored,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,English Learner,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Non-English Learner,ES,N,82.5,77.4
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Non-English Learner or monitored,ES,N,82.5,77.4
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Foster Care,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Non-Foster Care,ES,N,82.3,77.3
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Homeless,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Non-Homeless,ES,N,82.5,77.3
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Migrant,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Non-Migrant,ES,N,82.5,77.4
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Military Dependent,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Non-Military Dependent,ES,N,82.5,77.4
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,All Students,ES,N,85.1,82.0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Female,ES,N,86.9,84.1
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Male,ES,N,83.6,80.2
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,African American,ES,N,75.0,72.2
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Asian,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Hispanic or Latino,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Two or More Races,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,White (non-Hispanic),ES,N,86.0,82.7
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Economically Disadvantaged,ES,N,84.1,80.8
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Non-Economically Disadvantaged,ES,N,87.1,84.4
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Students with Disabilities (IEP),ES,N,83.3,79.0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Alternate Assessment,ES,N,70.8,69.7
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Students without IEP,ES,N,85.9,83.0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,English Learner including Monitored,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,English Learner,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Non-English Learner,ES,N,85.1,82.0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Non-English Learner or monitored,ES,N,85.1,82.0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Foster Care,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Non-Foster Care,ES,N,85.3,82.4
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Homeless,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Non-Homeless,ES,N,84.9,81.8
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Migrant,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Non-Migrant,ES,N,85.1,82.0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Military Dependent,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Non-Military Dependent,ES,N,85.1,82.0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,All Students,ES,N,76.4,69.8
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Female,ES,N,78.2,71.8
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Male,ES,N,74.7,67.9
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,African American,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,American Indian or Alaska Native,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Asian,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Hispanic or Latino,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Two or More Races,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,White (non-Hispanic),ES,N,76.8,69.7
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Economically Disadvantaged,ES,N,75.3,67.6
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Non-Economically Disadvantaged,ES,N,78.5,73.9
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Students with Disabilities (IEP),ES,N,77.6,70.6
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Alternate Assessment,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Students without IEP,ES,N,76.1,69.6
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,English Learner including Monitored,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,English Learner,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Non-English Learner,ES,N,76.3,69.8
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Non-English Learner or monitored,ES,N,76.3,69.8
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Foster Care,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Non-Foster Care,ES,N,76.4,69.8
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Homeless,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Non-Homeless,ES,N,76.4,69.8
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Migrant,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Non-Migrant,ES,N,76.4,69.8
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Military Dependent,ES,Y,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Non-Military Dependent,ES,N,76.5,69.9
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",All Students,ES,N,82.4,80.5
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",All Students,MS,N,76.8,71.0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",All Students,HS,N,68.8,65.7
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Female,ES,N,80.8,78.5
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Female,MS,N,74.8,67.6
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Female,HS,N,70.4,62.0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Male,ES,N,83.8,82.3
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Male,MS,N,78.9,74.5
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Male,HS,N,67.9,67.8
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",African American,HS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",African American,ES,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",African American,MS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",American Indian or Alaska Native,MS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",American Indian or Alaska Native,HS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",American Indian or Alaska Native,ES,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Asian,HS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Asian,ES,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Asian,MS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Hispanic or Latino,MS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Hispanic or Latino,HS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Hispanic or Latino,ES,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Native Hawaiian or Pacific Islander,HS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Native Hawaiian or Pacific Islander,ES,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Native Hawaiian or Pacific Islander,MS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Two or More Races,MS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Two or More Races,HS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Two or More Races,ES,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",White (non-Hispanic),ES,N,82.5,80.7
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",White (non-Hispanic),HS,N,69.7,66.9
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",White (non-Hispanic),MS,N,77.0,70.9
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Economically Disadvantaged,HS,N,68.8,65.8
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Economically Disadvantaged,MS,N,79.2,71.8
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Economically Disadvantaged,ES,N,80.2,78.7
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Non-Economically Disadvantaged,MS,N,71.1,69.1
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Non-Economically Disadvantaged,HS,N,68.8,65.6
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Non-Economically Disadvantaged,ES,N,85.9,83.4
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Students with Disabilities (IEP),HS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Students with Disabilities (IEP),MS,N,82.2,71.5
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Students with Disabilities (IEP),ES,N,83.0,79.6
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Alternate Assessment,ES,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Alternate Assessment,HS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Alternate Assessment,MS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Students without IEP,ES,N,82.3,80.7
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Students without IEP,HS,N,67.7,64.6
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Students without IEP,MS,N,75.5,70.9
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",English Learner including Monitored,MS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",English Learner including Monitored,ES,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",English Learner including Monitored,HS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",English Learner,MS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",English Learner,ES,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",English Learner,HS,Y,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Non-English Learner,HS,N,68.8,65.7
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Non-English Learner,ES,N,82.4,80.5
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Non-English Learner,MS,N,76.8,71.0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Non-English Learner or monitored,MS,N,76.8,71.0

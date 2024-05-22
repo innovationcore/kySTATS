@@ -1,0 +1,1001 @@
+SCHOOL YEAR,COUNTY NUMBER,COUNTY NAME,DISTRICT NUMBER,DISTRICT NAME,SCHOOL NUMBER,SCHOOL NAME,SCHOOL CODE,STATE SCHOOL ID,NCES ID,CO-OP,CO-OP CODE,SCHOOL TYPE,DEMOGRAPHIC,TOTAL DISCIPLINE RESOLUTIONS,EXPELLED RECEIVING SERVICES SSP1,EXPELLED NOT RECEIVING SERVICES SSP2,OUT OF SCHOOL SUSPENSION SSP3,CORPORAL PUNISHMENT SSP5,IN-SCHOOL REMOVAL INSR,RESTRAINT SSP7,SECLUSION SSP8,UNILATERAL REMOVAL BY SCHOOL PERSONNEL IAES1,REMOVAL BY HEARING OFFICER IAES2
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",All Students,358,*,0,240,0,210,*,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Total Events,752,*,0,357,0,391,3,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Female,250,0,0,118,0,132,0,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Male,502,*,0,239,0,259,3,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",African American,22,0,0,14,0,8,0,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Asian,3,0,0,3,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Hispanic or Latino,31,0,0,20,0,11,0,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Two or More Races,88,0,0,36,0,52,0,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",White (Non Hispanic),608,*,0,284,0,320,3,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Economically Disadvantaged,638,*,0,310,0,324,3,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Students with Disabilities (IEP),85,0,0,58,0,26,*,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",English Learner,14,0,0,9,0,5,0,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Foster Care,51,0,0,33,0,18,0,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Gifted and Talented,42,0,0,18,0,24,0,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Homeless,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Migrant,7,0,0,3,0,4,0,0,0,0
+20222023,001,ADAIR,001,Adair County,"",---District Total---,001,"","",GRREC,902,"",Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,All Students,221,*,0,119,0,170,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Total Events,497,*,0,170,0,326,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Female,182,0,0,69,0,113,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Male,315,*,0,101,0,213,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,African American,13,0,0,6,0,7,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Hispanic or Latino,21,0,0,10,0,11,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Two or More Races,51,0,0,13,0,38,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,White (Non Hispanic),409,*,0,138,0,270,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Economically Disadvantaged,417,*,0,149,0,267,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Students with Disabilities (IEP),40,0,0,20,0,20,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,English Learner,8,0,0,3,0,5,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Foster Care,32,0,0,16,0,16,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Gifted and Talented,34,0,0,12,0,22,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Migrant,4,0,0,*,0,3,0,0,0,0
+20222023,001,ADAIR,001,Adair County,010,Adair County High School,001010,001001010,210003000001,GRREC,902,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,All Students,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Total Events,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Female,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Male,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,African American,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Hispanic or Latino,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Two or More Races,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,White (Non Hispanic),0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Economically Disadvantaged,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Students with Disabilities (IEP),0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Foster Care,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,012,Adair Learning Academy,001012,001001012,210003001913,GRREC,902,A6,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,All Students,98,0,0,83,0,37,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Total Events,195,0,0,133,0,62,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Female,61,0,0,42,0,19,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Male,134,0,0,91,0,43,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,African American,6,0,0,5,0,*,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Hispanic or Latino,7,0,0,7,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Two or More Races,32,0,0,19,0,13,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,White (Non Hispanic),150,0,0,102,0,48,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Economically Disadvantaged,167,0,0,113,0,54,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Students with Disabilities (IEP),18,0,0,14,0,4,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,English Learner,4,0,0,4,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Foster Care,11,0,0,9,0,*,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Gifted and Talented,8,0,0,6,0,*,0,0,0,0
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,014,Adair County Middle School,001014,001001014,210003001919,GRREC,902,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,All Students,30,0,0,29,0,*,*,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Total Events,46,0,0,41,0,*,3,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Female,3,0,0,3,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Male,43,0,0,38,0,*,3,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,African American,3,0,0,3,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Hispanic or Latino,3,0,0,3,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Two or More Races,5,0,0,4,0,*,0,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,White (Non Hispanic),35,0,0,31,0,*,3,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Economically Disadvantaged,40,0,0,35,0,*,3,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Students with Disabilities (IEP),24,0,0,21,0,*,*,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,English Learner,*,0,0,*,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Foster Care,8,0,0,8,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Migrant,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,016,Adair County Elementary School,001016,001001016,210003002021,GRREC,902,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,All Students,9,0,0,9,0,*,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Total Events,14,0,0,13,0,*,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Female,4,0,0,4,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Male,10,0,0,9,0,*,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,African American,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Hispanic or Latino,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Two or More Races,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,White (Non Hispanic),14,0,0,13,0,*,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Economically Disadvantaged,14,0,0,13,0,*,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Students with Disabilities (IEP),3,0,0,3,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,English Learner,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Foster Care,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Migrant,*,0,0,*,0,*,0,0,0,0
+20222023,001,ADAIR,001,Adair County,020,Adair County Primary Center,001020,001001020,210003002345,GRREC,902,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",All Students,336,11,0,119,0,290,*,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Total Events,810,11,0,197,0,601,*,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Female,218,4,0,36,0,178,0,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Male,592,7,0,161,0,423,*,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",African American,18,0,0,4,0,14,0,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Asian,0,0,0,0,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Hispanic or Latino,57,*,0,17,0,39,0,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Two or More Races,34,0,0,12,0,22,0,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",White (Non Hispanic),701,10,0,164,0,526,*,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Economically Disadvantaged,628,9,0,157,0,461,*,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Students with Disabilities (IEP),206,*,0,71,0,132,*,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",English Learner,10,*,0,3,0,6,0,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Foster Care,32,*,0,12,0,18,*,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Gifted and Talented,9,0,0,*,0,7,0,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Homeless,4,0,0,0,0,4,0,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Migrant,*,0,0,0,0,*,0,0,0,0
+20222023,002,ALLEN,005,Allen County,"",---District Total---,005,"","",GRREC,902,"",Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,All Students,11,0,0,11,0,*,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Total Events,29,0,0,24,0,5,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Female,4,0,0,4,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Male,25,0,0,20,0,5,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,African American,0,0,0,0,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Hispanic or Latino,*,0,0,*,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Two or More Races,*,0,0,*,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,White (Non Hispanic),26,0,0,21,0,5,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Economically Disadvantaged,26,0,0,21,0,5,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Students with Disabilities (IEP),5,0,0,5,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,English Learner,0,0,0,0,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Foster Care,4,0,0,4,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Homeless,0,0,0,0,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,010,Allen County Primary Center,005010,002005010,210007000008,GRREC,902,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,All Students,68,*,0,29,0,58,0,0,0,0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Total Events,164,*,0,38,0,124,0,0,0,0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Female,46,0,0,9,0,37,0,0,0,0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Male,118,*,0,29,0,87,0,0,0,0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Hispanic or Latino,10,*,0,*,0,7,0,0,0,0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Two or More Races,*,0,0,*,0,*,0,0,0,0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,White (Non Hispanic),149,*,0,33,0,115,0,0,0,0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Economically Disadvantaged,130,*,0,29,0,99,0,0,0,0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Students with Disabilities (IEP),55,0,0,14,0,41,0,0,0,0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Gifted and Talented,*,0,0,*,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,015,James E Bazzell Middle School,005015,002005015,210007000009,GRREC,902,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,All Students,162,4,0,40,0,152,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Total Events,389,4,0,49,0,336,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Female,121,0,0,11,0,110,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Male,268,4,0,38,0,226,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Hispanic or Latino,33,0,0,5,0,28,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Two or More Races,15,0,0,3,0,12,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,White (Non Hispanic),327,4,0,40,0,283,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Economically Disadvantaged,303,3,0,39,0,261,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Students with Disabilities (IEP),50,*,0,7,0,42,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,English Learner,5,0,0,*,0,3,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Foster Care,12,0,0,*,0,11,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Gifted and Talented,3,0,0,0,0,3,0,0,0,0
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,020,Allen County-Scottsville High School,005020,002005020,210007000010,GRREC,902,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,All Students,21,*,0,16,0,10,0,0,0,0
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Total Events,47,*,0,27,0,18,0,0,0,0
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Female,13,*,0,6,0,5,0,0,0,0
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Male,34,0,0,21,0,13,0,0,0,0
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,African American,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Hispanic or Latino,11,0,0,8,0,3,0,0,0,0
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Two or More Races,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,White (Non Hispanic),25,*,0,12,0,11,0,0,0,0
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Economically Disadvantaged,27,*,0,17,0,9,0,0,0,0
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Students with Disabilities (IEP),28,0,0,18,0,10,0,0,0,0
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,025,Patriot Academy,005025,002005025,"",GRREC,902,A5,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,All Students,86,3,0,34,0,72,*,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Total Events,181,3,0,59,0,118,*,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Female,34,*,0,6,0,26,0,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Male,147,*,0,53,0,92,*,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Hispanic or Latino,*,0,0,0,0,*,0,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Two or More Races,6,0,0,*,0,5,0,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,White (Non Hispanic),174,3,0,58,0,112,*,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Economically Disadvantaged,142,3,0,51,0,87,*,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Students with Disabilities (IEP),68,*,0,27,0,39,*,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,English Learner,*,0,0,0,0,*,0,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Foster Care,13,*,0,7,0,4,*,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Gifted and Talented,5,0,0,*,0,4,0,0,0,0
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,002,ALLEN,005,Allen County,060,Allen County Intermediate Center,005060,002005060,210007000013,GRREC,902,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",All Students,18,0,0,6,0,13,*,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Total Events,24,0,0,6,0,14,4,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Female,6,0,0,0,0,5,*,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Male,18,0,0,6,0,9,3,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",African American,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Asian,5,0,0,0,0,*,3,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Hispanic or Latino,*,0,0,0,0,*,0,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Two or More Races,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",White (Non Hispanic),15,0,0,5,0,10,0,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Economically Disadvantaged,7,0,0,*,0,4,*,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Students with Disabilities (IEP),*,0,0,0,0,*,*,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Gifted and Talented,4,0,0,*,0,*,0,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,"",---District Total---,006,"","",OVEC,906,"",Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,All Students,18,0,0,6,0,13,*,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Total Events,24,0,0,6,0,14,4,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Female,6,0,0,0,0,5,*,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Male,18,0,0,6,0,9,3,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Asian,5,0,0,0,0,*,3,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Hispanic or Latino,*,0,0,0,0,*,0,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Two or More Races,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,White (Non Hispanic),15,0,0,5,0,10,0,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Economically Disadvantaged,7,0,0,*,0,4,*,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Students with Disabilities (IEP),*,0,0,0,0,*,*,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Gifted and Talented,4,0,0,*,0,*,0,0,0,0
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,056,JEFFERSON,006,Anchorage Independent,010,Anchorage Independent Public School,006010,056006010,210009000014,OVEC,906,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",All Students,366,0,0,112,0,328,9,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Total Events,849,0,0,158,0,675,16,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Female,207,0,0,45,0,162,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Male,642,0,0,113,0,513,16,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",African American,19,0,0,*,0,17,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Asian,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Hispanic or Latino,53,0,0,13,0,39,*,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Two or More Races,44,0,0,5,0,36,3,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",White (Non Hispanic),732,0,0,138,0,582,12,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Economically Disadvantaged,510,0,0,103,0,397,10,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Students with Disabilities (IEP),159,0,0,41,0,102,16,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",English Learner,6,0,0,*,0,5,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Foster Care,6,0,0,*,0,5,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Gifted and Talented,18,0,0,*,0,17,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Migrant,*,0,0,*,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,"",---District Total---,011,"","",CKEC,901,"",Military Dependent,5,0,0,*,0,4,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,All Students,151,0,0,55,0,144,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Total Events,376,0,0,64,0,312,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Female,98,0,0,18,0,80,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Male,278,0,0,46,0,232,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,African American,6,0,0,0,0,6,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Hispanic or Latino,30,0,0,8,0,22,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Two or More Races,15,0,0,0,0,15,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,White (Non Hispanic),324,0,0,56,0,268,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Economically Disadvantaged,235,0,0,38,0,197,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Students with Disabilities (IEP),52,0,0,12,0,40,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,English Learner,6,0,0,*,0,5,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Foster Care,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Gifted and Talented,7,0,0,*,0,6,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,020,Anderson County High School,011020,003011020,210012000016,CKEC,901,A1,Military Dependent,3,0,0,*,0,*,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,All Students,4,0,0,*,0,*,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Total Events,5,0,0,3,0,*,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Female,3,0,0,3,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Male,*,0,0,0,0,*,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Hispanic or Latino,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Two or More Races,*,0,0,0,0,*,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,White (Non Hispanic),4,0,0,3,0,*,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Economically Disadvantaged,*,0,0,*,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Students with Disabilities (IEP),3,0,0,3,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,English Learner,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,022,Robert B. Turner Elementary School,011022,003011022,210012001955,CKEC,901,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,All Students,179,0,0,36,0,170,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Total Events,404,0,0,60,0,344,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Female,99,0,0,18,0,81,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Male,305,0,0,42,0,263,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,African American,13,0,0,*,0,11,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Hispanic or Latino,18,0,0,*,0,16,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Two or More Races,18,0,0,*,0,17,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,White (Non Hispanic),355,0,0,55,0,300,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Economically Disadvantaged,226,0,0,37,0,189,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Students with Disabilities (IEP),66,0,0,9,0,57,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,English Learner,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Foster Care,6,0,0,*,0,5,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Gifted and Talented,10,0,0,0,0,10,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,025,Anderson County Middle School,011025,003011025,210012000017,CKEC,901,A1,Military Dependent,*,0,0,0,0,*,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,All Students,11,0,0,9,0,5,*,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Total Events,27,0,0,16,0,8,3,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Female,4,0,0,4,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Male,23,0,0,12,0,8,3,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Hispanic or Latino,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Two or More Races,9,0,0,4,0,3,*,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,White (Non Hispanic),18,0,0,12,0,5,*,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Economically Disadvantaged,22,0,0,14,0,5,3,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Students with Disabilities (IEP),16,0,0,9,0,4,3,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,English Learner,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,050,Saffell Street Elementary School,011050,003011050,210012000018,CKEC,901,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,All Students,21,0,0,10,0,7,7,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Total Events,37,0,0,15,0,9,13,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Female,3,0,0,*,0,*,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Male,34,0,0,13,0,8,13,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,African American,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Hispanic or Latino,5,0,0,3,0,*,*,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Two or More Races,*,0,0,0,0,0,*,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,White (Non Hispanic),31,0,0,12,0,8,11,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Economically Disadvantaged,25,0,0,12,0,6,7,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Students with Disabilities (IEP),22,0,0,8,0,*,13,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,English Learner,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Gifted and Talented,*,0,0,0,0,*,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,110,Emma B. Ward Elementary School,011110,003011110,210012000021,CKEC,901,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,All Students,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Total Events,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Female,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Male,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Hispanic or Latino,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Two or More Races,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,White (Non Hispanic),0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Economically Disadvantaged,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Students with Disabilities (IEP),0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,003,ANDERSON,011,Anderson County,120,Ezra Sparrow Early Childhood Center,011120,003011120,210012001298,CKEC,901,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",All Students,407,*,0,216,0,293,14,*,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Total Events,1140,*,0,370,0,724,41,3,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Female,346,0,0,116,0,219,11,0,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Male,794,*,0,254,0,505,30,3,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",African American,76,0,0,25,0,47,4,0,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Asian,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Hispanic or Latino,109,*,0,37,0,58,12,*,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Two or More Races,145,0,0,46,0,91,8,0,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",White (Non Hispanic),810,*,0,262,0,528,17,*,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Economically Disadvantaged,949,*,0,317,0,595,34,*,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Students with Disabilities (IEP),281,*,0,94,0,144,39,*,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",English Learner,*,0,0,0,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Foster Care,17,0,0,8,0,9,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Gifted and Talented,15,0,0,0,0,15,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Homeless,35,0,0,11,0,20,4,0,0,0
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,"",---District Total---,012,"","",KEDC,903,"",Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,All Students,11,0,0,11,0,0,*,*,0,0
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Total Events,20,0,0,17,0,0,*,*,0,0
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Female,*,0,0,*,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Male,19,0,0,16,0,0,*,*,0,0
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,African American,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Two or More Races,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,White (Non Hispanic),10,0,0,10,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Economically Disadvantaged,17,0,0,14,0,0,*,*,0,0
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Students with Disabilities (IEP),4,0,0,4,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,005,Ashland Alternative School,012005,010012005,210015002487,KEDC,903,A5,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,All Students,122,*,0,75,0,74,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Total Events,208,*,0,105,0,101,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Female,55,0,0,30,0,25,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Male,153,*,0,75,0,76,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,African American,18,0,0,9,0,9,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Hispanic or Latino,17,*,0,11,0,5,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Two or More Races,24,0,0,11,0,13,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,White (Non Hispanic),149,*,0,74,0,74,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Economically Disadvantaged,175,*,0,91,0,82,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Students with Disabilities (IEP),69,*,0,34,0,33,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Foster Care,7,0,0,4,0,3,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,010,Paul G. Blazer High School,012010,010012010,210015000022,KEDC,903,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,All Students,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Total Events,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Female,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Male,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,African American,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Two or More Races,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,White (Non Hispanic),0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Economically Disadvantaged,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Students with Disabilities (IEP),0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,012,Ashland Head Start,012012,010012012,210015002023,KEDC,903,A4,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,All Students,247,0,0,115,0,215,*,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Total Events,837,0,0,218,0,618,*,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Female,273,0,0,79,0,194,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Male,564,0,0,139,0,424,*,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,African American,54,0,0,16,0,38,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Hispanic or Latino,71,0,0,18,0,53,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Two or More Races,109,0,0,31,0,78,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,White (Non Hispanic),603,0,0,153,0,449,*,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Economically Disadvantaged,699,0,0,189,0,509,*,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Students with Disabilities (IEP),150,0,0,41,0,108,*,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Foster Care,9,0,0,3,0,6,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Gifted and Talented,14,0,0,0,0,14,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Homeless,26,0,0,7,0,19,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000023,KEDC,903,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,All Students,11,0,0,11,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Total Events,14,0,0,13,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Female,*,0,0,*,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Male,12,0,0,11,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,African American,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Hispanic or Latino,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Two or More Races,3,0,0,3,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,White (Non Hispanic),11,0,0,10,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Economically Disadvantaged,13,0,0,12,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Students with Disabilities (IEP),3,0,0,3,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Foster Care,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Homeless,3,0,0,3,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,070,Crabbe Elementary School,012070,010012070,210015000025,KEDC,903,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,All Students,*,0,0,*,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Total Events,*,0,0,*,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Female,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Male,*,0,0,*,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Two or More Races,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,White (Non Hispanic),*,0,0,*,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Economically Disadvantaged,*,0,0,*,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Students with Disabilities (IEP),*,0,0,0,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,080,Hager Elementary School,012080,010012080,210015000026,KEDC,903,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,All Students,7,0,0,*,0,0,7,0,0,0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Total Events,27,0,0,*,0,0,26,0,0,0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Female,7,0,0,0,0,0,7,0,0,0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Male,20,0,0,*,0,0,19,0,0,0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Hispanic or Latino,11,0,0,*,0,0,10,0,0,0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Two or More Races,3,0,0,0,0,0,3,0,0,0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,White (Non Hispanic),13,0,0,0,0,0,13,0,0,0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Economically Disadvantaged,24,0,0,*,0,0,23,0,0,0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Students with Disabilities (IEP),27,0,0,*,0,0,26,0,0,0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,100,Oakview Elementary School,012100,010012100,210015000028,KEDC,903,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,All Students,13,0,0,10,0,*,3,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Total Events,26,0,0,14,0,3,9,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Female,8,0,0,4,0,0,4,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Male,18,0,0,10,0,3,5,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,African American,4,0,0,0,0,0,4,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Two or More Races,6,0,0,*,0,0,5,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,White (Non Hispanic),16,0,0,13,0,3,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Economically Disadvantaged,19,0,0,9,0,*,8,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Students with Disabilities (IEP),21,0,0,10,0,*,9,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Gifted and Talented,*,0,0,0,0,*,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Homeless,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,110,Poage Elementary School,012110,010012110,210015000029,KEDC,903,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,All Students,3,0,0,*,0,0,*,*,0,0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Total Events,6,0,0,*,0,0,3,*,0,0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Female,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Male,6,0,0,*,0,0,3,*,0,0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Hispanic or Latino,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Two or More Races,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,White (Non Hispanic),6,0,0,*,0,0,3,*,0,0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Economically Disadvantaged,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Students with Disabilities (IEP),6,0,0,*,0,0,3,*,0,0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,010,BOYD,012,Ashland Independent,130,Charles Russell Elementary School,012130,010012130,210015000031,KEDC,903,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",All Students,42,0,0,41,0,6,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Total Events,76,0,0,70,0,6,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Female,9,0,0,8,0,*,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Male,67,0,0,62,0,5,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",African American,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Asian,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Two or More Races,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",White (Non Hispanic),74,0,0,68,0,6,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Economically Disadvantaged,64,0,0,58,0,6,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Students with Disabilities (IEP),16,0,0,15,0,*,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Gifted and Talented,7,0,0,7,0,0,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,"",---District Total---,013,"","",KEDC,903,"",Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,All Students,42,0,0,41,0,6,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Total Events,76,0,0,70,0,6,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Female,9,0,0,8,0,*,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Male,67,0,0,62,0,5,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Two or More Races,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,White (Non Hispanic),74,0,0,68,0,6,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Economically Disadvantaged,64,0,0,58,0,6,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Students with Disabilities (IEP),16,0,0,15,0,*,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Gifted and Talented,7,0,0,7,0,0,0,0,0,0
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,012,BRACKEN,013,Augusta Independent,011,Augusta Independent School,013011,012013011,210018001968,KEDC,903,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",All Students,176,0,0,13,0,175,*,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Total Events,557,0,0,16,0,538,3,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Female,153,0,0,4,0,149,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Male,404,0,0,12,0,389,3,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",African American,25,0,0,0,0,25,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Asian,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Hispanic or Latino,14,0,0,0,0,14,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Two or More Races,45,0,0,*,0,43,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",White (Non Hispanic),473,0,0,14,0,456,3,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Economically Disadvantaged,457,0,0,16,0,438,3,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Students with Disabilities (IEP),77,0,0,7,0,67,3,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Foster Care,32,0,0,0,0,32,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Gifted and Talented,17,0,0,*,0,16,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Homeless,16,0,0,0,0,16,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,"",---District Total---,015,"","",WKEC,908,"",Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,All Students,67,0,0,5,0,66,*,0,0,0
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Total Events,297,0,0,5,0,289,3,0,0,0
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Female,87,0,0,0,0,87,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Male,210,0,0,5,0,202,3,0,0,0
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Two or More Races,32,0,0,*,0,31,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,White (Non Hispanic),245,0,0,4,0,238,3,0,0,0
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Economically Disadvantaged,250,0,0,5,0,242,3,0,0,0
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Students with Disabilities (IEP),32,0,0,*,0,27,3,0,0,0
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Gifted and Talented,8,0,0,*,0,7,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,005,Ballard County Middle School,015005,004015005,210021000035,WKEC,908,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,All Students,61,0,0,7,0,61,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Total Events,147,0,0,10,0,137,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Female,43,0,0,4,0,39,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Male,104,0,0,6,0,98,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,African American,8,0,0,0,0,8,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Two or More Races,7,0,0,*,0,6,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,White (Non Hispanic),128,0,0,9,0,119,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Economically Disadvantaged,129,0,0,10,0,119,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Students with Disabilities (IEP),28,0,0,4,0,24,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,010,Ballard Memorial High School,015010,004015010,210021000036,WKEC,908,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,All Students,48,0,0,*,0,48,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Total Events,113,0,0,*,0,112,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Female,23,0,0,0,0,23,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Male,90,0,0,*,0,89,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Hispanic or Latino,*,0,0,0,0,*,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Two or More Races,6,0,0,0,0,6,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,White (Non Hispanic),100,0,0,*,0,99,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Economically Disadvantaged,78,0,0,*,0,77,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Students with Disabilities (IEP),17,0,0,*,0,16,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Gifted and Talented,9,0,0,0,0,9,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Homeless,8,0,0,0,0,8,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,050,Ballard County Elementary School,015050,004015050,210021000356,WKEC,908,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,All Students,0,0,0,0,0,0,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Total Events,0,0,0,0,0,0,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Female,0,0,0,0,0,0,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Male,0,0,0,0,0,0,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,African American,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Two or More Races,0,0,0,0,0,0,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,White (Non Hispanic),0,0,0,0,0,0,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Economically Disadvantaged,0,0,0,0,0,0,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Students with Disabilities (IEP),0,0,0,0,0,0,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,004,BALLARD,015,Ballard County,070,Ballard Co. Preschool/Headstart Center,015070,004015070,210021000040,WKEC,908,A4,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",All Students,48,0,0,48,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Total Events,72,0,0,72,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Female,21,0,0,21,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Male,51,0,0,51,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",African American,*,0,0,*,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Asian,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Two or More Races,*,0,0,*,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",White (Non Hispanic),68,0,0,68,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Economically Disadvantaged,66,0,0,66,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Students with Disabilities (IEP),12,0,0,12,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Foster Care,5,0,0,5,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Gifted and Talented,3,0,0,3,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,"",---District Total---,016,"","",SESC,907,"",Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,All Students,48,0,0,48,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Total Events,72,0,0,72,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Female,21,0,0,21,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Male,51,0,0,51,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,African American,*,0,0,*,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Two or More Races,*,0,0,*,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,White (Non Hispanic),68,0,0,68,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Economically Disadvantaged,66,0,0,66,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Students with Disabilities (IEP),12,0,0,12,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Foster Care,5,0,0,5,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Gifted and Talented,3,0,0,3,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,011,Barbourville City School,016011,061016011,210024001969,SESC,907,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,All Students,0,0,0,0,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Total Events,0,0,0,0,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Female,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Male,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,African American,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Two or More Races,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,White (Non Hispanic),0,0,0,0,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Economically Disadvantaged,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Students with Disabilities (IEP),*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,061,KNOX,016,Barbourville Independent,015,Barbourville Learning Center,016015,061016015,"",SESC,907,A5,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",All Students,282,0,0,156,0,213,5,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Total Events,679,0,0,272,0,394,13,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Female,208,0,0,95,0,112,*,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Male,471,0,0,177,0,282,12,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",African American,137,0,0,67,0,70,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Asian,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Hispanic or Latino,40,0,0,15,0,25,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Two or More Races,94,0,0,38,0,50,6,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",White (Non Hispanic),408,0,0,152,0,249,7,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Economically Disadvantaged,495,0,0,198,0,286,11,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Students with Disabilities (IEP),113,0,0,45,0,57,11,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",English Learner,25,0,0,7,0,18,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Foster Care,3,0,0,*,0,*,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Gifted and Talented,11,0,0,4,0,7,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Homeless,7,0,0,*,0,5,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,"",---District Total---,017,"","",CKEC,901,"",Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,All Students,11,0,0,10,0,3,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Total Events,17,0,0,14,0,3,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Female,*,0,0,*,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Male,15,0,0,12,0,3,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,African American,6,0,0,5,0,*,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Two or More Races,*,0,0,*,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,White (Non Hispanic),9,0,0,7,0,*,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Economically Disadvantaged,17,0,0,14,0,3,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Students with Disabilities (IEP),3,0,0,3,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,005,Bardstown Alternative School,017005,090017005,210027002359,CKEC,901,A5,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,All Students,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Total Events,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Female,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Male,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,African American,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Hispanic or Latino,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Two or More Races,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,White (Non Hispanic),0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Economically Disadvantaged,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Students with Disabilities (IEP),0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,009,Bardstown Early Childhood Center,017009,090017009,210027002222,CKEC,901,A4,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,All Students,41,0,0,7,0,34,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Total Events,62,0,0,7,0,55,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Female,6,0,0,*,0,5,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Male,56,0,0,6,0,50,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,African American,12,0,0,3,0,9,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Hispanic or Latino,3,0,0,0,0,3,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Two or More Races,14,0,0,*,0,13,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,White (Non Hispanic),33,0,0,3,0,30,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Economically Disadvantaged,49,0,0,7,0,42,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Students with Disabilities (IEP),12,0,0,3,0,9,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,English Learner,3,0,0,0,0,3,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Gifted and Talented,*,0,0,0,0,*,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,010,Bardstown Elementary School,017010,090017010,210027000044,CKEC,901,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,All Students,*,0,0,*,0,0,*,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Total Events,15,0,0,5,0,0,10,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Female,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Male,15,0,0,5,0,0,10,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,African American,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Hispanic or Latino,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Two or More Races,9,0,0,3,0,0,6,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,White (Non Hispanic),6,0,0,*,0,0,4,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Economically Disadvantaged,15,0,0,5,0,0,10,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Students with Disabilities (IEP),12,0,0,4,0,0,8,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,English Learner,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,012,Bardstown Primary School,017012,090017012,210027002050,CKEC,901,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,All Students,121,0,0,68,0,99,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Total Events,278,0,0,117,0,161,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Female,101,0,0,47,0,54,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Male,177,0,0,70,0,107,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,African American,72,0,0,31,0,41,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Asian,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Hispanic or Latino,14,0,0,7,0,7,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Two or More Races,38,0,0,16,0,22,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,White (Non Hispanic),154,0,0,63,0,91,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Economically Disadvantaged,193,0,0,85,0,108,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Students with Disabilities (IEP),46,0,0,16,0,30,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,English Learner,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Gifted and Talented,6,0,0,*,0,4,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Homeless,3,0,0,0,0,3,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,020,Bardstown High School,017020,090017020,210027000045,CKEC,901,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,All Students,111,0,0,73,0,78,3,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Total Events,307,0,0,129,0,175,3,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Female,99,0,0,45,0,53,*,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Male,208,0,0,84,0,122,*,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,African American,47,0,0,28,0,19,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Asian,0,0,0,0,0,0,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Hispanic or Latino,23,0,0,8,0,15,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Two or More Races,31,0,0,16,0,15,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,White (Non Hispanic),206,0,0,77,0,126,3,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Economically Disadvantaged,221,0,0,87,0,133,*,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Students with Disabilities (IEP),40,0,0,19,0,18,3,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,English Learner,22,0,0,7,0,15,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Gifted and Talented,3,0,0,*,0,*,0,0,0,0
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000046,CKEC,901,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",All Students,534,0,0,206,0,449,8,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Total Events,1281,0,0,324,0,945,12,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Female,314,0,0,72,0,240,*,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Male,967,0,0,252,0,705,10,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",African American,43,0,0,23,0,19,*,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Asian,0,0,0,0,0,0,0,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Hispanic or Latino,61,0,0,14,0,47,0,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Two or More Races,31,0,0,8,0,22,*,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",White (Non Hispanic),1142,0,0,277,0,855,10,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Economically Disadvantaged,966,0,0,261,0,696,9,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Students with Disabilities (IEP),254,0,0,93,0,154,7,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",English Learner,13,0,0,3,0,10,0,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Foster Care,69,0,0,22,0,47,0,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Gifted and Talented,83,0,0,22,0,58,3,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Homeless,103,0,0,42,0,55,6,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Migrant,5,0,0,*,0,3,0,0,0,0
+20222023,005,BARREN,021,Barren County,"",---District Total---,021,"","",GRREC,902,"",Military Dependent,4,0,0,*,0,*,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,All Students,8,0,0,3,0,7,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Total Events,11,0,0,4,0,7,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Female,0,0,0,0,0,0,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Male,11,0,0,4,0,7,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Hispanic or Latino,0,0,0,0,0,0,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Two or More Races,0,0,0,0,0,0,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,White (Non Hispanic),11,0,0,4,0,7,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Economically Disadvantaged,11,0,0,4,0,7,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Students with Disabilities (IEP),4,0,0,*,0,*,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Foster Care,0,0,0,0,0,0,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Gifted and Talented,*,0,0,0,0,*,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Homeless,*,0,0,0,0,*,0,0,0,0
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,010,Austin Tracy Elementary School,021010,005021010,210030000047,GRREC,902,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,All Students,25,0,0,25,0,3,0,0,0,0
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Total Events,74,0,0,71,0,3,0,0,0,0
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Female,21,0,0,20,0,*,0,0,0,0
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Male,53,0,0,51,0,*,0,0,0,0
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,African American,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Hispanic or Latino,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Two or More Races,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,White (Non Hispanic),65,0,0,62,0,3,0,0,0,0
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Economically Disadvantaged,60,0,0,57,0,3,0,0,0,0
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Students with Disabilities (IEP),9,0,0,9,0,0,0,0,0,0
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Foster Care,6,0,0,6,0,0,0,0,0,0
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Gifted and Talented,0,0,0,0,0,0,0,0,0,0
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Homeless,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,011,College Street Campus,021011,005021011,210030001303,GRREC,902,A5,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,All Students,14,0,0,5,0,12,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Total Events,19,0,0,5,0,14,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Female,8,0,0,3,0,5,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Male,11,0,0,*,0,9,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,African American,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Hispanic or Latino,3,0,0,*,0,*,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Two or More Races,0,0,0,0,0,0,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,White (Non Hispanic),16,0,0,4,0,12,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Economically Disadvantaged,15,0,0,4,0,11,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Students with Disabilities (IEP),*,0,0,0,0,*,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,English Learner,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Foster Care,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Gifted and Talented,5,0,0,3,0,*,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Homeless,*,0,0,0,0,*,0,0,0,0
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Migrant,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,014,North Jackson Elementary,021014,005021014,210030002232,GRREC,902,A1,Military Dependent,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,All Students,271,0,0,76,0,260,0,0,0,0
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,Total Events,659,0,0,92,0,567,0,0,0,0
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,Female,179,0,0,19,0,160,0,0,0,0
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,Male,480,0,0,73,0,407,0,0,0,0
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,African American,14,0,0,3,0,11,0,0,0,0
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,American Indian or Alaska Native,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,Asian,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,Hispanic or Latino,33,0,0,4,0,29,0,0,0,0
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,Native Hawaiian or Pacific Islander,*,*,*,*,*,*,*,*,*,*
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,Two or More Races,13,0,0,3,0,10,0,0,0,0
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,White (Non Hispanic),595,0,0,80,0,515,0,0,0,0
+20222023,005,BARREN,021,Barren County,027,Barren County High School,021027,005021027,210030000048,GRREC,902,A1,Economically Disadvantaged,475,0,0,70,0,405,0,0,0,0
